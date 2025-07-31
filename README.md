@@ -74,7 +74,7 @@ Monthly Sales Trend (Line Plot)
 
 Boxplot of Profit by Category
 
-Add small versions of the charts or screenshots here.
+
 
 ##  Boxplot Analysis
 + What Boxplots Showed Us:
