@@ -29,11 +29,11 @@ Excel file loaded into Python using pandas.read_excel()
 
 + Data Cleaning
 
-Handled missing values
++ Handled missing values
 
-Converted date fields
++ Converted date fields
 
-Removed duplicates
++ Removed duplicates
 
 + Analysis & Visualization
 
